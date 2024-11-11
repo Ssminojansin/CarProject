@@ -1,0 +1,17 @@
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\bin\Debug\net6.0\Business.dll
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\obj\Debug\net6.0\Business.csproj.Up2Date
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\obj\Debug\net6.0\Business.dll
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\temen\Desktop\RecapProject\Solution1\Business\obj\Debug\net6.0\ref\Business.dll
